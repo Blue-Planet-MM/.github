@@ -17,3 +17,14 @@ Blue Planet is a leading in mobile application company in Myanmar specializing o
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
   &nbsp;
 </div>
+
+## Find us on
+
+<div>
+  <a href="https://www.linkedin.com/company/blue-planet-coltd/mycompany/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/blueplanet.mm/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
