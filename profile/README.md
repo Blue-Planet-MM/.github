@@ -1,6 +1,8 @@
 # Blue Planet
 
-Blue Planet is a leading in mobile application company in Myanmar specializing on providing Value Added Services (VAS) for various telecom operators, enterprises and content providers alike to render exquisite and innovative services in a very cost effective way. We believe in providing the highest quality solutions in a very simplified way.
+Blue Planet is a prominent mobile application company in Myanmar, specializing in providing innovative Value Added Services (VAS) to a diverse range of clients, including telecom operators, enterprises, and content providers. Our commitment to cost-effective solutions is matched only by our unwavering dedication to delivering the highest quality products and services, always presented in a simplified and streamlined manner.
+
+From a technological standpoint, our focus is on upgrading our technology stack to incorporate the latest and most advanced technologies, enabling us to overcome previously insurmountable barriers and achieve new levels of success.
 
 [More about us.](https://blueplanet.com.mm/)
 
